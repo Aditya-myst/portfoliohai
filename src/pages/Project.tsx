@@ -76,11 +76,11 @@ const Projects = () => {
       link: "https://github.com/Aditya-myst/gymkhana",
     },
     {
-      title: "Skillhub - Learn Any Skill you need for Free",
-      description: "Skill Hub is a dynamic platform designed to empower individuals by offering a wide range of skill-enhancing workshops, training sessions, and resources.",
-      image: "/Screenshot 2024-12-29 075822.png",
+      title: "CareerDIVE",
+      description: "A platform designed to bridge the gap between students and the professional world, offering a wealth of resources to help individuals navigate their career paths.",
+      image: "./Screenshot 2024-12-31 100723.png",
       tags: ["Typescript", "Tailwind CSS"],
-      link: "https://github.com/Aditya-myst/skillhub",
+      link: "https://stunning-scone-1c4128.netlify.app/",
     },
   ];
 
