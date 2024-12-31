@@ -59,7 +59,7 @@ const Projects = () => {
       description: "A modern portfolio website built with React and Framer Motion.",
       image: "/Screenshot 2024-12-26 123938.png",
       tags: ["React", "TypeScript", "Framer Motion"],
-      link: "https://indianmemetemplates.com/wp-content/uploads/ye-fas-gaya-1024x576.jpg",
+      link: "./Screenshot 2024-12-31 073037.png",
     },
     {
       title: "Saveurr",
