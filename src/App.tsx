@@ -8,6 +8,7 @@ import Work from "./pages/Work";
 import Projects from "./pages/Project";
 import Contact from "./pages/Contact";
 
+
 const queryClient = new QueryClient();
 
 const App = () => (
