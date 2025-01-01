@@ -62,14 +62,14 @@ const Projects = () => {
       link: "./Screenshot 2024-12-31 073037.png",
     },
     {
-      title: "Saveurr",
+      title: "Saveurr(In Progress)",
       description: " A sleek and user-friendly landing page for a restaurant app, showcasing delicious cuisines, seamless online reservations, and exclusive deals.",
       image: "/Screenshot 2024-12-29 081537.png",
       tags: ["Node.js", "Express", "MongoDB"],
       link: "https://github.com/Aditya-myst/saveurr",
     },
     {
-      title: "E-Commerce Store",
+      title: "A gym site(In progress)"
       description: "A modern landing page designed for a local gym, showcasing state-of-the-art facilities, personalized training programs, and a vibrant fitness community.",
       image: "/Screenshot 2024-12-29 081138.png",
       tags: ["React.js", "Tailwind CSS", "..."],
@@ -78,7 +78,7 @@ const Projects = () => {
     {
       title: "CareerDIVE",
       description: "A platform designed to bridge the gap between students and the professional world, offering a wealth of resources to help individuals navigate their career paths.",
-      image: "./Screenshot 2024-12-31 100723.png",
+      image: "/Screenshot 2024-12-29 075822.png",
       tags: ["Typescript", "Tailwind CSS"],
       link: "https://stunning-scone-1c4128.netlify.app/",
     },
