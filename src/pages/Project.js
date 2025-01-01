@@ -20,7 +20,7 @@ const Projects = () => {
             link: "https://github.com/Aditya-myst/saveurr",
         },
         {
-            title: "A gtm site(In progress",
+            title: "A gym site(In progress)",
             description: "A modern landing page designed for a local gym, showcasing state-of-the-art facilities, personalized training programs, and a vibrant fitness community.",
             image: "/Screenshot 2024-12-29 081138.png",
             tags: ["React.js", "Tailwind CSS", "..."],
