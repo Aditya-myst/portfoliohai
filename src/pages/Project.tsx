@@ -62,6 +62,7 @@ const Projects = () => {
       link: "./Screenshot 2024-12-31 073037.png",
     },
     {
+<<<<<<< HEAD
       title: "CareerDIVE",
       description: "a platform designed to bridge the gap between students and the professional world, offering a wealth of resources to help individuals navigate their career paths.",
       image: "./Screenshot 2024-12-31 100723.png",
@@ -69,6 +70,8 @@ const Projects = () => {
       link: "https://glowing-liger-24bb0a.netlify.app/",
     },
     {
+=======
+>>>>>>> 7f85c98cf927f437d8bb54808f93b0bdc3be4ad0
       title: "Saveurr(In progress)",
       description: " A sleek and user-friendly landing page for a restaurant app, showcasing delicious cuisines, seamless online reservations, and exclusive deals.",
       image: "/Screenshot 2024-12-29 081537.png",
@@ -76,13 +79,27 @@ const Projects = () => {
       link: "https://github.com/Aditya-myst/saveurr",
     },
     {
+<<<<<<< HEAD
       title: "A gym Site(In progress)",
+=======
+      title: "A gym site(In progress)"
+>>>>>>> 7f85c98cf927f437d8bb54808f93b0bdc3be4ad0
       description: "A modern landing page designed for a local gym, showcasing state-of-the-art facilities, personalized training programs, and a vibrant fitness community.",
       image: "/Screenshot 2024-12-29 081138.png",
       tags: ["React.js", "Tailwind CSS", "..."],
       link: "https://github.com/Aditya-myst/gymkhana",
     },
+<<<<<<< HEAD
     
+=======
+    {
+      title: "CareerDIVE",
+      description: "A platform designed to bridge the gap between students and the professional world, offering a wealth of resources to help individuals navigate their career paths.",
+      image: "/Screenshot 2024-12-29 075822.png",
+      tags: ["Typescript", "Tailwind CSS"],
+      link: "https://stunning-scone-1c4128.netlify.app/",
+    },
+>>>>>>> 7f85c98cf927f437d8bb54808f93b0bdc3be4ad0
   ];
 
   return (
