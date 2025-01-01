@@ -62,7 +62,7 @@ const Projects = () => {
       link: "./Screenshot 2024-12-31 073037.png",
     },
     {
-      title: "Saveurr(In Progress)",
+      title: "Saveurr(In progress)",
       description: " A sleek and user-friendly landing page for a restaurant app, showcasing delicious cuisines, seamless online reservations, and exclusive deals.",
       image: "/Screenshot 2024-12-29 081537.png",
       tags: ["Node.js", "Express", "MongoDB"],
