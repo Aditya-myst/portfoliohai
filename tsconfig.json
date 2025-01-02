@@ -1,23 +1,25 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-    "jsx": "react-jsx",
-    "baseUrl": "./src",
+    "target": "ESNext", // Targets the latest ECMAScript features.
+    "module": "ESNext", // Supports ES Modules.
+    "moduleResolution": "node", // Use "node" resolution for compatibility with npm modules.
+    "jsx": "react-jsx", // Uses JSX transform for React (React 17+).
+    "baseUrl": "./src", // Simplifies import paths.
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"] // Enables aliasing for cleaner imports.
     },
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    "allowSyntheticDefaultImports": true,
-    "resolveJsonModule": true,
-    "noImplicitAny": true,
-    "isolatedModules": true,
-    "incremental": true,
-    "skipDefaultLibCheck": true
+    "strict": true, // Enables strict type checking.
+    "esModuleInterop": true, // Ensures compatibility with CommonJS modules.
+    "skipLibCheck": true, // Skips type checking for node_modules for faster builds.
+    "forceConsistentCasingInFileNames": true, // Enforces consistent casing in imports.
+    "allowSyntheticDefaultImports": true, // Allows default imports for ES modules.
+    "resolveJsonModule": true, // Enables importing JSON files.
+    "noImplicitAny": true, // Ensures explicit type annotations.
+    "isolatedModules": true, // Enforces module boundaries for single-file transpilation.
+    "incremental": true, // Enables incremental builds for faster recompilation.
+    "noEmit": true, // Prevents output of compiled files (useful in React projects).
+    "types": ["node"], // Includes Node.js type definitions.
+    "useDefineForClassFields": true // Ensures class fields behave like ESNext.
   },
   "include": [
     "src/**/*.ts",
